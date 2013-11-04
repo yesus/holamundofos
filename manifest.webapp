@@ -1,0 +1,15 @@
+{
+	"version":"0.1",
+	"name":"Hola Mundo",
+	"launch_path":"/index.html",
+	"description":"Firefox OS Hola Mundo",
+	"icons":{
+	"128":"/logo.png"
+	},
+	"developer":{
+			"name":"Jesus Mar",
+			"url":"https://github.com/yesus"
+	}, 
+	"installs_allowed_from":["*"],
+	"default_locale":"es"
+}
